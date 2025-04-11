@@ -4,6 +4,8 @@ This project is an Angular 17 application designed to visualize a sequence of tr
 
 ![image](https://github.com/user-attachments/assets/3f3b6c32-88b8-4307-93b3-6f5851b427f9)
 
+**Check out the live demo:** [**Live Demo Link**](https://transportsimpleg.netlify.app/)
+
 
 ## Description
 
